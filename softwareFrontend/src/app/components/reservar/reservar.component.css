@@ -1,0 +1,65 @@
+body{
+  background-attachment: fixed;
+  height: 100vh;
+  background: url('http://www.sipinas.com/wp-content/uploads/2018/01/6.jpg');
+  
+}
+body::-webkit-scrollbar {
+    width: 8px;
+  }
+  body::-webkit-scrollbar-track {
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+  }
+  body::-webkit-scrollbar-thumb {
+    background-color: #dfdfdf;
+    border-radius: 10px;
+  }
+  
+.reservac{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.verde{
+    background: rgba(50, 238, 50, 0.432);
+}
+.top-nav-collapse{
+    background: rgba(50, 238, 50, 0.774) !important;
+}
+.formulario{
+    margin:  auto;
+    width: 320px;
+  background-color: rgba(255, 255, 255, 0.863);
+    -webkit-box-shadow: -1px 6px 23px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 6px 23px 1px rgba(0,0,0,0.75);
+    box-shadow: -1px 6px 23px 1px rgba(0,0,0,0.75);
+  border-radius: 9px 9px 9px 9px;
+  -moz-border-radius: 9px 9px 9px 9px;
+  -webkit-border-radius: 9px 9px 9px 9px;
+  border: 0px solid #000000;
+
+}
+.enlaceboton {    
+  font-family: 'Trebuchet MS','Roboto'Verdana,Arial,sans-serif;
+  font-size: 10pt; 
+  font-weight: bold; 
+  padding: 4px; 
+  background-color: #05a1537a; 
+  color: #05a1537a; 
+  text-decoration: none; 
+} 
+.enlaceboton:link, 
+.enlaceboton:visited { 
+  border-radius: 3px;
+  border-top: 1px solid #05a1537a; 
+  border-bottom: 2px solid #05a1537a; 
+  border-left: 1px solid #05a1537a; 
+  border-right: 2px solid #05a1537a;  
+} 
+.enlaceboton:hover { 
+   border-bottom: 1px solid #05a1537a; 
+  border-top: 2px solid #05a1537a; 
+  border-right: 1px solid #05a1537a; 
+  border-left: 2px solid #05a1537a; 
+}
