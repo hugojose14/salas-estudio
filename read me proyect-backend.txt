@@ -1,7 +1,0 @@
-1) Descargar la versión "Java SE Development Kit 8u211" de acuerdo a tu sistema operativo 32bits, 64 bits, etc
-2) Instalar el "Java SE Development Kit 8u211" e ir a la carpeta en disco local c  donde se instaló el jdk (Archivos de programa x86)
-3) Luego de estár en la carpeta del jdk 1.8 nos dirigimos a la carpeta de bin y agregamos esta ruta a las variables de entorno 
-4) Descargar Intellij IDEA e instalar la versión de prueba, en caso también puedes registrarte con el correo institucional para obtener todos los privilegios t000xxxxx@utb...
-5) Luego colocar el proyecto en la misma ruta de los proyectos de intellij IDEA
-6) Descargar el grails desde la pagina oficial, la versión 3.3.9 
-7) Compilar el proyecto en el boton de run en intellij IDEA
